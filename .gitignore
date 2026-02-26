@@ -1,0 +1,10 @@
+# Chặn các file mô hình AI nặng
+*.pt
+
+# Chặn video 
+*.mp4
+*.avi
+
+# Chặn thư mục chứa nhiều ảnh
+vietnam-1/
+runs/
